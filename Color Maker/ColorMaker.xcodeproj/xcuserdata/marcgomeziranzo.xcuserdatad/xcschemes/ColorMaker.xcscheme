@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "2BC866F41ECF2CAB002695D3"
-               BuildableName = "Color Maker.app"
-               BlueprintName = "Color Maker"
-               ReferencedContainer = "container:Color Maker.xcodeproj">
+               BlueprintIdentifier = "4D20BB8D1A072A0300A88C83"
+               BuildableName = "ColorMaker.app"
+               BlueprintName = "ColorMaker"
+               ReferencedContainer = "container:ColorMaker.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -32,10 +32,10 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "2BC866F41ECF2CAB002695D3"
-            BuildableName = "Color Maker.app"
-            BlueprintName = "Color Maker"
-            ReferencedContainer = "container:Color Maker.xcodeproj">
+            BlueprintIdentifier = "4D20BB8D1A072A0300A88C83"
+            BuildableName = "ColorMaker.app"
+            BlueprintName = "ColorMaker"
+            ReferencedContainer = "container:ColorMaker.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -55,10 +55,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "2BC866F41ECF2CAB002695D3"
-            BuildableName = "Color Maker.app"
-            BlueprintName = "Color Maker"
-            ReferencedContainer = "container:Color Maker.xcodeproj">
+            BlueprintIdentifier = "4D20BB8D1A072A0300A88C83"
+            BuildableName = "ColorMaker.app"
+            BlueprintName = "ColorMaker"
+            ReferencedContainer = "container:ColorMaker.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -74,10 +74,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "2BC866F41ECF2CAB002695D3"
-            BuildableName = "Color Maker.app"
-            BlueprintName = "Color Maker"
-            ReferencedContainer = "container:Color Maker.xcodeproj">
+            BlueprintIdentifier = "4D20BB8D1A072A0300A88C83"
+            BuildableName = "ColorMaker.app"
+            BlueprintName = "ColorMaker"
+            ReferencedContainer = "container:ColorMaker.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
